@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.6'
   s.required_rubygems_version = '>= 1.3.6'
 
-  s.add_runtime_dependency 'thor',        '~> 0.19.4'
+  s.add_runtime_dependency 'thor',        '>= 0.19.4', '< 1.2.0'
   s.add_runtime_dependency 'rubyzip',     '~> 1.3.0'
   s.add_runtime_dependency 'thin',        '~> 1.8.0'
   s.add_runtime_dependency 'sinatra',     '~> 2.1.0'
