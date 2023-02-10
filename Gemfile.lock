@@ -96,6 +96,8 @@ GEM
     multipart-post (2.1.1)
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
+    nokogiri (1.13.6-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.6-x86_64-linux)
@@ -174,6 +176,7 @@ GEM
       sassc
 
 PLATFORMS
+  arm64-darwin-21
   x86_64-darwin-18
   x86_64-darwin-20
   x86_64-darwin-21
