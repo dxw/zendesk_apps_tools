@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'faraday',     '~> 0.17.5'
   s.add_runtime_dependency 'execjs',      '~> 2.7.0'
   s.add_runtime_dependency 'zendesk_apps_support', '~> 4.32.0'
-  s.add_runtime_dependency 'sinatra-cross_origin', '~> 0.3.1'
+  s.add_runtime_dependency 'sinatra-cross_origin', '>= 0.3.1', '< 0.5.0'
   s.add_runtime_dependency 'listen', '~> 2.10'
   s.add_runtime_dependency 'rack-livereload'
   s.add_runtime_dependency 'faye-websocket', '>= 0.10.7', '< 0.12.0'

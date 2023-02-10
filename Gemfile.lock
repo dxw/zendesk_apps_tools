@@ -9,7 +9,7 @@ PATH
       rack-livereload
       rubyzip (>= 1.2.1, < 2.4.0)
       sinatra (>= 1.4.6, < 2.3.0)
-      sinatra-cross_origin (~> 0.3.1)
+      sinatra-cross_origin (>= 0.3.1, < 0.5.0)
       thin (~> 1.8.0)
       thor (~> 0.19.4)
       zendesk_apps_support (~> 4.32.0)
@@ -142,7 +142,7 @@ GEM
       rack (~> 2.2)
       rack-protection (= 2.2.0)
       tilt (~> 2.0)
-    sinatra-cross_origin (0.3.2)
+    sinatra-cross_origin (0.4.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     thin (1.8.1)
