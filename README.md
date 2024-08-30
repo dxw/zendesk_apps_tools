@@ -1,3 +1,9 @@
+# dxw note
+
+2024-08-23: The parent project of this, [Project
+Wisdom]https://github.com/dxw/project-wisdomu(https://github.com/dxw/project-wisdom)
+is no longer used this fork is now archived.
+
 # IN MAINTENANCE MODE
 
 Zendesk Apps Tools is in maintenance mode. This means no additional feature enhancements or non-security bugs will be fixed. **We recommend switching to using [ZCLI](https://github.com/zendesk/zcli) for our best CLI experience.**
